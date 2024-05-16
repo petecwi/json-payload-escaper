@@ -30,4 +30,3 @@ class BurpExtender(IBurpExtender, IIntruderPayloadProcessor):
     def escapeJson(self, payload):
         # Use Python's JSON library to escape the payload
         return json.dumps(payload)[1:-1]
-
