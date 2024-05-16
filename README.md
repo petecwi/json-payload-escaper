@@ -4,8 +4,7 @@ A Burp Suite extension to escape JSON payloads.
 **## Usage**
 
 **Open Burp Suite:**
-- Go to the "Extender" tab.
-- Click on the "Extensions" sub-tab.
+- Click on the "Extensions" tab.
 - Click "Add".
 - Select "Python" as the extension type.
 - Browse to and select the Python file from this repository.
