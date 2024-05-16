@@ -13,8 +13,6 @@ A Burp Suite extension to escape JSON payloads.
 **Setup Intruder:**
 - Go to the "Intruder" tab.
 - Configure your target and set payload positions.
-
-**Configure Payloads:**
 - Navigate to the "Payloads" tab.
 - Choose your payload set and add the payloads you want to test.
 
